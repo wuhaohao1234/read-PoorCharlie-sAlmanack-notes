@@ -2,9 +2,25 @@
 id: de657b5c-3821-4dd4-8e94-694dd4577e85
 title: Root
 desc: ''
-updated: 1610003711410
+updated: 1610019551185
 created: 1610003711410
 ---
-# Welcome to Dendron
+# 多元化思维
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
+[[序章]]
+
+* 思维模型的本质。
+
+[[最熟悉的决策方式]]
+
+[[当下时代最厉害的决策方式]]
+
+[[打破学科间的壁垒]]
+
+* 如何高效学习和掌握思维模型。
+
+[[构建深度思考力的底层逻辑]]
+
+[[多元思维模型建立认知竞争力的底层逻辑]]
+
+[[多元思维模型解决问题的四个层次]]
